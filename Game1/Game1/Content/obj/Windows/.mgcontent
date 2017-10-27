@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/MonoGame Projects/Game1/Game1/Content/Naruto/run.png</File>
+    <File>D:/MonoGame Projects/Game1/Game1/Content/Naruto/stance.png</File>
+    <File>D:/MonoGame Projects/Game1/Game1/Content/Naruto/walk.png</File>
+    <File>D:/MonoGame Projects/Game1/Game1/Content/Naruto/crouch.png</File>
+    <File>D:/MonoGame Projects/Game1/Game1/Content/Naruto/Big_Rasengan.png</File>
+    <File>D:/MonoGame Projects/Game1/Game1/Content/Naruto/BasicCombo0.png</File>
+    <File>D:/MonoGame Projects/Game1/Game1/Content/Naruto/BasicCombo1.png</File>
+    <File>D:/MonoGame Projects/Game1/Game1/Content/Naruto/BasicCombo2.png</File>
+    <File>D:/MonoGame Projects/Game1/Game1/Content/Naruto/Hidden_Leaf.png</File>
+  </SourceFiles>
+</SourceFileCollection>
